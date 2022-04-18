@@ -5,7 +5,6 @@
   "main": "app.js",
   "publishConfig": {
    "registry": "http://3.7.45.153:9980/mithuntechnologies/repository/mss-nodejs-repo/"
- //   "registry": "http://13.233.50.203:8081/repository/nodejs/"
 
   },
   "scripts": {
