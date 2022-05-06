@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-   "registry": "http://13.233.50.203:8081/repository/nodejs_cicd/"
+   "registry": "http://13.126.171.179:8081/repository/Node-js-project/"
 
   },
   "scripts": {
